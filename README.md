@@ -9,7 +9,7 @@ Thanks for stopping by my little spot on Github.
 
 🌱 If I a working on a side project these days it is usually this [Chord App](https://github.com/AntonEmery/chord-app). Its a full stack app using React/Node, that I would like to get deployed soon. I enjoy working on projects that are different from my day job where I can pick up new skills.
 
-:brain: I write mostly Javascript/HTML/CSS. I can hack around in PHP a bit and am currently working on learning Rust
+:brain: I write mostly Javascript/HTML/CSS, and have experience with a variety of front end frameworks. I can hack around in PHP a bit and am currently working on learning Rust
 
 :earth_americas: My personal website is at [antonemery.com](http://www.antonemery.com) 
 
