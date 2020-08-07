@@ -11,7 +11,7 @@ Thanks for stopping by my little spot on Github.
 
 :brain: I write mostly Javascript/HTML/CSS. I can hack around in PHP a bit and am currently working on learning Rust
 
-:earth_americas: You can visit my personal website at [antonemery.com](http://www.antonemery.com)
+:earth_americas: My personal website is at [antonemery.com](http://www.antonemery.com) 
 
 😄 Pronouns: he/him
 
