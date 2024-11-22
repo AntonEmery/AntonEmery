@@ -5,6 +5,5 @@
 -->
 Thanks for stopping by my little spot on Github.
 
-:computer: I'm a Front End Engineer at [HiringThing](https://www.hiringthing.com) working mostly with React and Redux
-
+:computer: I'm a Full Stack Web Developer that enjoys working with Javascript
 
