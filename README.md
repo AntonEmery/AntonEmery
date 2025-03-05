@@ -5,5 +5,5 @@
 -->
 Thanks for stopping by my little spot on Github.
 
-:computer: I'm a Full Stack Web Developer that enjoys working with Javascript
+:computer: I'm a Full Stack Web Developer that loves working on a collaborative to build great products
 
